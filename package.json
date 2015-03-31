@@ -1,7 +1,7 @@
 {
   "name": "sfdeploy",
   "description": "deploy to sf",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "author": "",
   "contributors": [
     {
@@ -16,7 +16,9 @@
   "plugins": {
     "sfdeploy": {}
   },
-  "categories": ["miscellaneous"],
+  "categories": [
+    "miscellaneous"
+  ],
   "licenses": [],
   "engines": {
     "c9": ">=3.0.0"
